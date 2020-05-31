@@ -2,13 +2,14 @@
 
 This my app deploying - .... Model from this repo: https://github.com/ldulcic/chatbot
 
-Python 3x
+Python 3x _ Kivy
 
 ## Installation
 ```bash
 pip3 install -r requirements.txt
 
 python3 -m spacy download en
+
 ```
 
 ## Run with Pre-trained models
