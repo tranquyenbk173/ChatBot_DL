@@ -25,3 +25,7 @@ sudo chmod +x predict.py
 ```
 After....
 Try by running: `main.py`
+
+_____________________
+I think it need to be added background,
+and tuned GUI nicer
